@@ -1,0 +1,8 @@
+{
+  "short_name": "Chess Square Names Trainer",
+  "name": "Chess Square Names Trainer",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
