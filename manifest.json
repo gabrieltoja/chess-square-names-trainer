@@ -1,0 +1,8 @@
+{
+  "short_name": "Chess Square Names Trainer",
+  "name": "A minigame to improve your knowledge of the 64 squares!",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

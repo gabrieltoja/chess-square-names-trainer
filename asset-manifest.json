@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chess-square-names-trainer/static/css/main.fcae582d.css",
+    "main.js": "/chess-square-names-trainer/static/js/main.9e93df52.js",
+    "index.html": "/chess-square-names-trainer/index.html",
+    "main.fcae582d.css.map": "/chess-square-names-trainer/static/css/main.fcae582d.css.map",
+    "main.9e93df52.js.map": "/chess-square-names-trainer/static/js/main.9e93df52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcae582d.css",
+    "static/js/main.9e93df52.js"
+  ]
+}
